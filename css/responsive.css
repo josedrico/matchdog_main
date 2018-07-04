@@ -42,7 +42,7 @@
 		font-size: 12px;
 	}
 	.navbar-nav > li > a {
-		padding: 0px 7px 10px 0px;
+		padding: 0px 7px 5px 0px;
 	}
 	.button .btn {
 		min-width: 100px;
@@ -96,7 +96,7 @@
 	}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
 		border-color: transparent;
-		background-color: rgba(255, 255, 255, 0.88);
+		background-color: rgba(255, 255, 255, 0.90);
 	}	
 	
 	p.bannerDescription {
@@ -146,7 +146,7 @@
 	a{font-size:14px;}
 	.navbar-default .navbar-collapse, .navbar-default .navbar-form {
 		border-color: transparent;
-		background-color: rgba(255, 255, 255, 0.88);
+		background-color: rgba(255, 255, 255, 0.90);
 	}
 	
 	.single_works_2_text i {
